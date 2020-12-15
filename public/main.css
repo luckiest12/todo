@@ -1,0 +1,10 @@
+body { 
+    font-family:'nanumsquare';
+}
+
+#chatButton{
+display: flex;
+height: 100vh;
+justify-content: center;
+align-items: center;
+}
